@@ -1,0 +1,23 @@
+{
+  "capture_settings": {
+    "Brute only": false,
+    "Capture mail": true,
+    "Capture timebans": true,
+    "Chromas": true,
+    "Currencies": true,
+    "Last played": true,
+    "Level": true,
+    "Rank": true,
+    "Skin tier list": true,
+    "Skins": true,
+    "Variations": true
+  },
+  "region_settings": {
+    "AP": true,
+    "BR": true,
+    "EU": true,
+    "KR": true,
+    "LATAM": true,
+    "NA": true
+  }
+}
